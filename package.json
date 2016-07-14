@@ -1,0 +1,18 @@
+{
+  "name": "args-node",
+  "version": "1.0.0",
+  "description": "parse args for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "keywords": [
+    "args",
+    "node"
+  ],
+  "author": "Luo",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.5.3"
+  }
+}
